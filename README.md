@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Putra!
 
-Passionate and working as **Software Engineer**, also i love to explore about blockchain things. Take a look at my professional profile and current research on My Personal Github ✨.
+Passionate and working as **Software Engineer**, also i love to explore about blockchain things. Take a look at my professional profile and current research on my personal github ✨.
 
 <!-- profile badges -->
 <p align="left">
